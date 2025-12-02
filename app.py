@@ -1,5 +1,5 @@
 # Addition
-sum_result = 10 + 5
+
 print(f"10 + 5 = {sum_result}") # Output: 15
 
 # Subtraction
@@ -15,7 +15,7 @@ div_result = 100 / 8
 print(f"100 / 8 = {div_result}") # Output: 12.5
 
 # Integer Division (discards the fractional part)
-int_div_result = 100 // 8
+
 print(f"100 // 8 = {int_div_result}") # Output: 12
 
 # Modulo (returns the remainder of the division)
@@ -29,13 +29,13 @@ print(f"10 % 3 = {remainder}") # Output: 1
 import math
 
 # Convert 45 degrees to radians
-angle_degrees = 45
+
 angle_radians = math.radians(angle_degrees)
 print(f"45 degrees in radians: {angle_radians}")
 
 # Calculate Sine (sin)
 sin_value = math.sin(angle_radians)
-print(f"Sin(45°) = {sin_value}")
+print(f"Sin(45°) = 
 
 # Calculate Cosine (cos)
 cos_value = math.cos(angle_radians)
